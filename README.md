@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0941-valid-mountain-array](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0941-valid-mountain-array) |
+| [1572-matrix-diagonal-sum](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Math
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
