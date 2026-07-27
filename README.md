@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0876-middle-of-the-linked-list](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
