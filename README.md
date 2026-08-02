@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
