@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0669-trim-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
