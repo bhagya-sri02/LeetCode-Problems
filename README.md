@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0516-longest-palindromic-subsequence](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
