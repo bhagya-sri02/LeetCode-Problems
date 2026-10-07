@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0217-contains-duplicate](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0941-valid-mountain-array](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0941-valid-mountain-array) |
 | [1572-matrix-diagonal-sum](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Math
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
+| [0322-coin-change](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 ## Two Pointers
 |  |
@@ -111,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/bhagya-sri02/LeetCode-Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
